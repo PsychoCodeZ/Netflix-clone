@@ -23,7 +23,8 @@ A simple and responsive **Netflix Signin page clone** built using **HTML** and *
 ## 📸 Screenshots
 
 | Desktop View | Mobile View |
-|--------------|-------------|
+|[net1](https://github.com/user-attachments/assets/03e80a32-8724-49c8-8568-60f2a84531e2)|-------!
+------|
 | ![Desktop](screenshots/desktop-view.png) | ![Mobile](screenshots/mobile-view.png) |
 
 > Add your own screenshots in the `screenshots/` folder and update the image paths above.
