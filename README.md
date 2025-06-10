@@ -24,7 +24,7 @@ A simple and responsive **Netflix Signin page clone** built using **HTML** and *
 
 | Desktop View | 🖥️
 <br>
-![Screenshot 2025-06-04 183221](https://github.com/user-attachments/assets/0606e0a9-d55d-4e18-9ad4-eda14e1bf8e8)
+![Screenshot 2025-06-04 183244](https://github.com/user-attachments/assets/4838537c-fecb-417c-b9c6-25538b652051)
 <br>
 [Screenshot 2025-06-04 183244](https://github.com/user-attachments/assets/0d809941-bfc0-47c1-9a26-78c12a1e2f8f)
 <br>
